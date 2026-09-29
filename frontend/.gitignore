@@ -1,0 +1,17 @@
+﻿node_modules/
+dist/
+dist-ssr/
+.vite/
+.cache/
+npm-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.*.local
+!.env.example
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+.netlify/
+.vercel/
